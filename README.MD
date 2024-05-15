@@ -10,6 +10,6 @@ If we have fun creating our projects, much of that positive energy and fun will 
 
 ## Feedback
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/85986263/)
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/85986263/) -->
              
 If you have any feedback, please reach out to us at talksy@tuchacloud.ru
