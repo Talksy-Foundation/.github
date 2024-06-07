@@ -1,6 +1,6 @@
 ---
-name: 🐛 Client Bug - in the Python library
-description: Create a report to help us improve W&B by reproducing and fixing bugs
+name: 🐛 Client Bug - in the Go library
+description: Create a report to help us improve Talksy by reproducing and fixing bugs
 title: "[CLI]: "
 labels:
   - "cli"
@@ -10,7 +10,7 @@ body:
     attributes:
       value: |
         **Thanks :heart: for taking the time to fill out this bug report!**
-        We kindly ask that you search to see if an issue [already exists](https://github.com/wandb/wandb/issues?q=is%3Aissue+sort%3Acreated-desc+) for the bug you encountered.
+        We kindly ask that you search to see if an issue [already exists](https://github.com/Talksy-Foundation/.github/issues?q=is%3Aissue+sort%3Acreated-desc+) for the bug you encountered.
 
   - type: textarea
     attributes:
